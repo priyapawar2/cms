@@ -1,1 +1,1 @@
-Build a CMS in with PHP and MySQL 
+Build a CMS with PHP and MySQL 
